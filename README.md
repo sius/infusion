@@ -8,10 +8,11 @@ Things I miss in the Java World.
 
 ### infusion-lambda
 
+
 **Example**
 
 ```java
-// infusion-lambda/src/test7java/FuncTest.java
+// infusion-lambda/src/test/java/FuncTest.java
 
 Func4<String, Character, Boolean, Byte, String> f4 = (arg0, arg1, arg2, arg3) -> arg0 + arg1 + arg2 + arg3;
 
