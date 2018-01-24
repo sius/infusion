@@ -12,7 +12,7 @@ Things I miss in the Java World.
 **Example**
 
 ```java
-// infusion-lambda/src/test/java/FuncTest.java
+// subprojects/infusion-lambda/src/test/java/FuncTest.java
 
 Func4<String, Character, Boolean, Byte, String> f4 = (arg0, arg1, arg2, arg3) -> arg0 + arg1 + arg2 + arg3;
 
